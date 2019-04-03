@@ -39,4 +39,7 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:git@github.com:Mitchhh/Pet-Clinic.git</developerConnection>
+    </scm>
 </project>
