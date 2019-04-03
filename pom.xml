@@ -20,6 +20,7 @@
 
     <properties>
         <java.version>1.8</java.version>
+        <maven.release.failOnError>false</maven.release.failOnError>
     </properties>
 
     <build>
